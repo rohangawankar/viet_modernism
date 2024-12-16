@@ -175,7 +175,7 @@
   },
   {
     "Source": "Cổ Văn Hậu",
-    "target": "",
+    "target": NaN,
     "value": 1,
     "type": ""
   },
@@ -2011,7 +2011,7 @@
   },
   {
     "Source": "Nguyễn Lương Dũng",
-    "target": "",
+    "target": NaN,
     "value": 1,
     "type": ""
   },
@@ -2761,7 +2761,7 @@
   },
   {
     "Source": "Shakrodov",
-    "target": "",
+    "target": NaN,
     "value": 1,
     "type": ""
   },
