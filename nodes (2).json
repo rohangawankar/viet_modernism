@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "115 Hàng Bạc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Alexandre Leonard",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Antonio Quitana",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Arthur Kruze",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Auguste Perret",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Boris Mezentsev",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Bùi Quang Hanh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Bùi Quí Ngọc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Bùi Quốc Dũng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Châu Mỹ Anh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Cổ Văn Hậu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đàm Trung Phường",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đặng Kim Khôi",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đặng Thái Hoàng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đặng Việt Nga",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Diêu Công Tuấn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đỗ Bá Vinh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đỗ Quang Toản",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đỗ Tế Dương",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đoàn Đức Thuận",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đoàn Ngọ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đoàn Văn Minh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Đoàn Văn Tạo ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "E.S Budnik",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Eric Võ Toàn Công",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ernest Hebrard",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Felíx Dumail",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "George Chedanne",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "George Trouve",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hà Đức Lịnh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Harold Grigorevich Isakovich",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Henry Prost",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Đạo Kính",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Hùng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Linh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Minh Phái",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Nghĩa Sang",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Ngọc Hoa",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Như Tấn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Như Tiếp",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Hoàng Quốc Cường",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Huỳnh Kim Mãng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Huỳnh Kim Trương",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Huỳnh Lẫm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Huỳnh Tấn Phát",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Huỳnh Thị Kiều Nga",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Jacques Lagisquet",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Khổng Toán",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lâm Du Tốt",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Làm việc tại Liên Xô",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Anh Kim",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Biên",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Le Corbusier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Đình Nhân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Hiệp",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Kim Luân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Lập",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Quang Hải",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Quang Ninh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Thị Kim Dung",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Tứ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Văn Cấu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Văn Lắm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Văn Lân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Văn Năm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lê Văn Rọt",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Leo Craste",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Léon Jaussely",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Louis - Georges Pineau",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Louis Chauchon",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lữ Trúc Phương",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lương Anh Dũng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lưu Trọng Hải",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Lưu Tương Giang",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "M. Bruel",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Marcel Poëte",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Marianne Colombani",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Maurice Masson",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ngô Doãn Đức",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ngô Huy Giao",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ngô Huy Quỳnh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ngô Quang Sơn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Ngô Viết Thụ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Bá Chí",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Bá Lăng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Bắc Vũ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Cao Luyện",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Đức Cần",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Duy Đức",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Gia Đức",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Hữu Phi",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Hữu Quý",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Hữu Thiện",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Hữu Thứt",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Khôi Nguyên",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Kim",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Kim Luyện",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Kim Sến",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Kỳ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Lương Dũng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Mạnh Bảo",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Nghi",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Ngọc Chân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Ngọc Ngoạn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Phú Đức",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Quang Nhạc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Quốc Cường",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Tấn Vạn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Thành",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Thúc Hoàng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Tiến Thuận",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Trọng Kha",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Trực Luyện",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Văn Hoa",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Văn Ninh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Văn Triệu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Vũ Hưng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nguyễn Xuân Tùng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Nhóm chuyên gia Liên Xô ?",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "P.Kuznetsov",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Paul Veysseyre",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Khắc Hệ ( Phạm Hoàng)",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Khánh Chù",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Quang Bình",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phạm Văn Thâng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phan Nguyên Mậu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Phan Văn Đáng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "R. Gilles",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "René Nguyễn Khắc Schéou",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Shakrodov",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tạ Mỹ Duật",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tạ Trường Xuân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tạ Xuân Vạn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tô Công Văn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tôn Đại",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tôn Thất Quỳnh Tiêu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Tony Garnier",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Bảo Lộc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Bình Trọng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Đình Quyền",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Đức Nhuận",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Đức Thành",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Gia Khiêm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Hùng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Hữu Tiềm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Quốc An",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Thanh Cường",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Thị Ninh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Văn Dưỡng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Văn Đường",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Văn Tải",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Văn Thành",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Xuân Diễm",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trần Xuân Đỉnh",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trịnh Nhưng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trương Ngọc Phú",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trương Tùng",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Trương Văn Long",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Văn Chương",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Victor Tardieu",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Võ Đức Diên",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Võ Thành Nghĩa",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Võ Thuộc",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Anh Tuấn",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Bá Đính",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Đại Hải",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Dương Quân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Tam Lang",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vũ Văn Tân",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vương Quốc Mỹ",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Vương Văn Lai",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Yamamoto",
+    "Group": 1,
+    "Colour": "#c35817"
+  },
+  {
+    "id": "Architectural Association",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ban nghiên cứu kế hoạch & kỹ thuật",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ban Xây Dựng Tổng Công Đoàn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Bộ Kiến Trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Bộ Thủy lợi - Kiến trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Bộ Xây Dựng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Bureau special D'architecte Đà Lạt",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Cao Đẳng kiến trúc Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "CIAM",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "CLB khiêu vũ nhà văn hóa Thanh niên",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Công ty tư vấn & thiết kế dân dụng Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Cục quy hoạch đô thị và nông thôn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Cục thiết kế Dân Dụng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại học Bách Khoa",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại học kiến trúc - Viện đại học Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại Học Kiến trúc Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại học Kiến trúc TP.HCM",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại học Thanh Hoa",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đại học xây dựng Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Đoàn kiến trúc sư Việt Nam",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ecole des beaux-arts de l’indochine",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ecole des Beaux-Arts de Phnom Penh",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ecole Nationale Superieure des beaux-arts Paris",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ecole Superieure d’ Architecture de Dalat",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Hội kiến trúc sư Việt Nam",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Lớp Đào Tạo Kiến trúc sư - Đại học bách khoa",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Lyon Regional School of Architecture",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Moscow Architectural Institute",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Nha thiết kế kiến trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Nha tổng giám đốc đô thị và công ốc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Service central d'architecture et d'urbanisme de Hanoi",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Sở Kiến trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Sở Ngoại Vụ",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Sở quốc gia bảo tồn cổ tích quốc gia Việt Nam",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Soviet architectural school ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Tổng nha kiến thiết",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Tổng nha kiến thiết Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Travaux Publics de L'Indochine",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trung tâm thiết kế và tu bổ di tích trung ương",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc đại học Columbia",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường kiến trúc Liên Xô ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc tại Hungary ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc tại Poland ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc tại Romania ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Trường Kiến trúc tại Trung Quốc ?",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Ty Kiến trúc Thái Nguyên",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện khảo cổ Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện nghiên cứu Hán Nôm",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Quy hoạch & Thiết kế Quảng Ninh",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Quy Hoạch và khảo sát thiết kế tỉnh Thanh Hóa",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế - công trình Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế - Xây dựng Hà Nội",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế nhà ở và công trình công cộng",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện thiết kế quy hoach đô thị - Nông thôn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Văn hóa Pháp Sài Gòn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Viện Xã hội học Campuchia",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Việt Bắc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "VNCC",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Vụ Kiến trúc",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Vụ quản lý thiết kế",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "Vụ thiết kế tiêu chuẩn",
+    "Group": 2,
+    "Colour": "#31eee6"
+  },
+  {
+    "id": "CRS Houston",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Hoa - Thâng - Nhạc",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Hội Ánh Sáng",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Hội KTS Pháp ở Viễn Đông",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Kruze - Nguyễn Văn Hoa",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Leonard - Veysseyre",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Leonard - Veysseyre - Kruze",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Luyện - Tiếp - Đức",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Mãng - Hoa - Thâng",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Mậu - Tiềm",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Ninh - Veysseyre",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Quỳnh - Diên",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Smith, Hinchman & Grylls",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Tải - Hanh - Lắm",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Xuân - Thuận - Đỉnh - Ngọc",
+    "Group": 3,
+    "Colour": "#4a5edd"
+  },
+  {
+    "id": "Art Deco",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Indochinese style",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Thức Vũ Hưng",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Vers une architecture",
+    "Group": 4,
+    "Colour": "#67ab65"
+  },
+  {
+    "id": "Báo Kiến Thiết",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Bạch Đằng Quảng Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng biên phòng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng cổ vật Nam Định",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng dân tộc học",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Hồ Chí Minh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Hùng Vương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo Tàng Kim Liên",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Louis Finot (Bảo tàng lịch sử quốc gia)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Phòng không Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng phụ nữ miền Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Tôn Đức Thắng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng văn hóa Hòa Bình",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo Tàng Việt Bắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bảo tàng Võ Nhai",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện 167 Phùng Hưng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện 198 Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh Viện 500 giường Thanh Nhàn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện hữu nghị Việt Nam - Cu Ba",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh Viện Hữu Nghị Việt Nam- Cu Ba (Quảng Bình)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện mắt Trung Ương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh Viện Nguyễn Văn Học",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện quốc tế Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện Rene Robin (Bạch Mai)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bệnh viện Vì Dân",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bình minh trang",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bưu điện Bà Rịa Vũng Tàu",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bưu Điện Quảng Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Bưu điện thành phố Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cải tạo Bách hóa tổng hợp",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cải tạo chợ Bến Thành",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cải tạo ga Hàng Cỏ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cải tạo khách sạn Dân Chủ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Câu lạc bộ Ba Đình",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chỉnh sửa rạp Eden Tràng Tiền",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ An Đông",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Bà Chiểu",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Bến Thành (Đồ án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đà Lạt ( Mới)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đà Lạt (Cũ)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đà Lạt (Mới) mở rộng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đầm Nha Trang",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đông Ba (Mới)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Đông Hà",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Hôm Đức Viên",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ Móng Cái Quảng Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chợ xóm chiếu",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa Bà Chúa Xứ Châu Đốc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa Cổ Lâm Quảng Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa một cột Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa Phổ Quang",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa Quán Sứ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Chùa Xá Lợi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Công Viên Thống Nhất",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Crazy House",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cư Xá Lam Sơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cửa khẩu quốc tế Móng Cái",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cung thiếu nhi Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Cung Văn hóa Hữu Nghị",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại học Huế",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại học kiến trúc Hồ Chính Minh (Công trình)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại học Nông – Lâm – Súc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại học Thương Nghiệp",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài phát thanh truyền hình Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đại sứ quán Việt Nam (Paris)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài Tiếng nói nhân dân TP.HCM",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài Tổ quốc ghi công",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài tưởng niệm liệt sĩ Bắc Sơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài tưởng niệm liệt sĩ tỉnh Bắc Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài tưởng niệm liệt sĩ Tuyên Quang",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đài tưởng niệm Núi Nhạn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đầm ếch La Grenouilere",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đền thờ Bác Hồ ở Pác Bó",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Đền thờ Trần Hưng Đạo",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Dinh Độc Lập",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ga T1 sân bay Nội Bài",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Giảng đường Đại học Cần Thơ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Giáo Hoàng Học Viện Thánh Pio X",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Học viện thủy lợi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội chợ Đà Lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội quán thông thiên học Việt Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội trường B Đại học đại cương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội trường Ba Đình",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội trường Rùa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội trường tỉnh ủy Cần Thơ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Hội trường trung cập Thương Nghiệp Mai Dịch",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Caravelle",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Crystal Palace",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Đồ Sơn Bộ Xây Dựng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Hải Phòng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách Sạn Hương Giang I",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Hương Giang II",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Lang Biang",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách Sạn Lê Lợi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Phương Đông",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Rex",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn T.78",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Thắng Lợi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khách sạn Thùy Dương Vũng Tàu",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Không gian Alibaba",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu lưu niệm Thủ tướng Võ Văn Kiệt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu Ngoại giao đoàn Vạn Phúc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu nhà ở Kim Liên",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu nhà ở ngoại giao đoàn Vạn Phúc II ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu nhà ở Nguyễn Công Trứ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu nhà ở tấm lớn Thanh Xuân Bắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Khu văn công quân đội Mai Dịch",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Kiến trúc Những vấn đề lý luận và thực tiễn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "KS Saigon Lodge",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Kỹ nghệ súc sản Vissan",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lăng Chủ Tịch",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lăng mộ vua Mohammed V",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lễ đài Ba Đình 1955",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lễ đài Ba Đình 1960",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lịch sử kiến trúc Việt Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Lữ quán thanh niên",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Miếu bà chúa xứ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ngân hàng Đông Dương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ngân hàng Đông Dương Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ngân hàng Việt Nam Thương Tín",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nghĩa trang liệt sĩ Đà Lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nghĩa trang liệt sĩ Móng Cái",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nghĩa trang quốc gia Đông Hà",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà Ánh Sáng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà C2 Khu nhà ở  Phương Liệt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hàng bánh tôm Hồ Tây",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hàng Thủy Tạ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hát chèo Trung Ương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà hát Trưng Vương Đà Nẵng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà họp Hội Đồng Chính Phủ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà khách bộ ngoại giao",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà khách chính phủ Lê Thạch",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà làm việc công ty Điện Lực I",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà luyện tập và thi đấu TDTT Khánh Hòa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà máy dệt Vinatexco (Thắng Lợi)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà nghỉ Công đoàn Bãi Cháy",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà nghỉ Công đoàn Đồ sơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà nghỉ Công đoàn Hạ Long",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà nghỉ Hồ Núi Cốc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà ở cho cộng đồng văn hóa thủy cư Bồ Lô",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà sàn Bác Hồ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thi đấu Nguyễn Tri Phương Đà Nẵng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thi đấu và luyện tập thể dục thể thao Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thờ Cửa Bắc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thờ giáo xứ Liên Khương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thờ Phủ Cam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà thờ tin lành",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà Trăm Mái",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà trẻ Anh Đào",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà triển lãm mỹ thuật 16 Ngô Quyền",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà U trường Đại học kiến trúc Hà nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà văn hóa công nhân mỏ Quảng Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà văn hoá lao động Liên Xô (Đồ án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nhà văn hóa Lao động Thanh Hóa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Nội San Kiến Trúc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quần thể nhà an dưỡng Sầm Sơn Thanh Hóa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Đà Lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Đà Lạt 1932-1933",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Hà Nội 1924",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Hà Nội 1934 (Đồ Án)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Hà Nội 1978",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Hồ Gươm",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch học viện kỹ thuật quân sự 1960s",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch khu trung tâm Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch khu trung tâm Hà Nội 1959",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Phnom Penh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Phnom Penh 1933",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Quảng trường Ba Đình",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Quy hoạch Vientiane 1935",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Rạp chiếu phim Trần Hưng Đạo (Huế)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Rạp Công Nhân cải tạo",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Salesian Don Bosco Đà Lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sân bay Nội Bài",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Sáng dội miền Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Thư viện Quốc Gia Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tòa nhà Hàm Cá Mập",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tòa nhà VAR",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Toàn nhà PTT",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tồn tại hay không tồn tại",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tổng lãnh sự quán Anh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tổng lãnh sự quán Thái Lan",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tổng nha kiến thiết Sài Gòn (công trình)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Bộ GTVT Đường Trần Hưng Đạo",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở công ty dược Thái Nguyên",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Đài Tiếng nói Việt Nam",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Hàng không Việt Nam (Sài Gòn)",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở liên cơ quan Vân Hồ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Ngân hàng Bắc Thái",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ Sở nhà xuất bản Lao Động",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Quốc Hội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Sở Công An Trà Vinh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Tổng Công Ty Thép Đường Láng Hạ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở tổng cục thống kê",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở UBND tỉnh Lạng Sơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở ủy ban hành chính tỉnh Nghĩa Lộ",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Viện Hóa học",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Viện Tâm thần Trung Ương",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trụ sở Viện Toán học",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung cấp Kiến trúc - Học Viện Thủy Lợi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung học Ernst Thalmann",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung hoc kiểu mẫu Thủ Đức",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung tâm Giáo dục Y Khoa – Đại học Y Khoa Sài Gòn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung tâm hội nghị quốc tế",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung tâm nghệ thuật quốc gia Indira Ghandhi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung tâm nghiên cứu nguyên tử Đà Lạt",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trung tâm thiết kế bộ đại học và THCN",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường đại học mỹ thuật công nghiệp Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường Đại học Sư Phạm Huế",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường Đảng Nguyễn Ái Quốc",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường dạy nghề Đà Nẵng",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường dạy tiếng Anh Hội Việt Mỹ đường Mạc Đĩnh Chi",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường trung học Kỹ Thuật Quy Nhơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường trung học kỹ thuật Vĩnh Long",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường trung học Sư phạm Quy Nhơn",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Trường văn hóa nghệ thuật Quảng Ninh",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Tượng đài viện trợ quốc tế",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "UBND Quận Đống Đa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Ủy ban nhân dân thành phố Hà Nội",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Văn phòng Thượng viện đường Nam Kỳ Khởi Nghĩa",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Vườn hoa Lenin",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Xây Dựng Mới",
+    "Group": 5,
+    "Colour": "#ecb134"
+  },
+  {
+    "id": "Công tác Trung Quốc tìm hiểu giáo dục kiến trúc",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Cử đi đào tạo tại Liên Xô",
+    "Group": 6,
+    "Colour": "#b274c0"
+  },
+  {
+    "id": "Grand Prix de Rome",
+    "Group": 6,
+    "Colour": "#b274c0"
+  }
+]
